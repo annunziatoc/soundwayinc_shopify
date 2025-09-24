@@ -113,50 +113,48 @@
     },
     "17587133154c7f19b5": {
       "type": "_blocks",
+      "settings": {}
+    },
+    "1758736374c521f160": {
+      "type": "_blocks",
       "blocks": {
-        "ai_gen_block_e13344a_fRWNpx": {
-          "type": "ai_gen_block_e13344a",
+        "ai_gen_block_4579977_XLqrEC": {
+          "type": "ai_gen_block_4579977",
           "settings": {
-            "title": "Featured Products",
-            "subtitle": "Discover our most popular items",
-            "show_description": true,
-            "product_1": "ultrasound",
+            "heading": "Featured Products",
+            "subtitle": "Discover our most popular products",
+            "button_text": "Shop Now",
+            "product_1": "",
+            "product_1_description": "<ul><li>High-quality materials</li><li>Professional grade</li><li>Includes warranty</li><li>Free shipping available</li></ul>",
             "product_2": "",
+            "product_2_description": "<ul><li>Premium design</li><li>Easy to use</li><li>Durable construction</li><li>Customer support included</li></ul>",
             "product_3": "",
-            "section_padding_top": 36,
-            "section_padding_bottom": 60,
-            "header_spacing": 40,
-            "grid_spacing": 40,
-            "card_spacing": 32,
-            "text_alignment": "center",
-            "image_height": 280,
-            "card_padding": 36,
-            "card_border_radius": 8,
-            "hover_lift": 4,
-            "card_shadow_opacity": 10,
-            "card_shadow_vertical": 4,
-            "card_shadow_blur": 12,
+            "product_3_description": "<ul><li>Advanced features</li><li>Compact size</li><li>Energy efficient</li><li>30-day money back guarantee</li></ul>",
             "background_color": "#fcfcfc",
+            "text_color": "#103948",
             "card_background_color": "#ffffff",
-            "title_color": "#103948",
-            "subtitle_color": "#103948",
-            "product_title_color": "#103948",
-            "product_price_color": "#103948",
-            "product_description_color": "#666666",
-            "title_size": 36,
+            "card_text_color": "#103948",
+            "bullet_color": "#103948",
+            "button_color": "#103948",
+            "button_text_color": "#fcfcfc",
+            "button_hover_color": "#18566c",
+            "button_hover_text_color": "#fcfcfc",
+            "heading_size": 36,
             "subtitle_size": 18,
-            "subtitle_spacing": 16,
-            "product_title_size": 20,
-            "product_price_size": 18,
-            "product_description_size": 14,
-            "title_margin": 8,
-            "price_margin": 8
+            "product_title_size": 24,
+            "description_size": 16,
+            "button_text_size": 16,
+            "section_padding_top": 32,
+            "section_padding_bottom": 60,
+            "card_spacing": 32,
+            "card_border_radius": 8,
+            "button_border_radius": 40
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_e13344a_fRWNpx"
+        "ai_gen_block_4579977_XLqrEC"
       ],
       "settings": {}
     },
@@ -237,49 +235,6 @@
     "175873593923c577b5": {
       "type": "_blocks",
       "settings": {}
-    },
-    "1758736374c521f160": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_4579977_XLqrEC": {
-          "type": "ai_gen_block_4579977",
-          "settings": {
-            "heading": "Featured Products",
-            "subtitle": "Discover our most popular products",
-            "button_text": "Shop Now",
-            "product_1": "",
-            "product_1_description": "<ul><li>High-quality materials</li><li>Professional grade</li><li>Includes warranty</li><li>Free shipping available</li></ul>",
-            "product_2": "",
-            "product_2_description": "<ul><li>Premium design</li><li>Easy to use</li><li>Durable construction</li><li>Customer support included</li></ul>",
-            "product_3": "",
-            "product_3_description": "<ul><li>Advanced features</li><li>Compact size</li><li>Energy efficient</li><li>30-day money back guarantee</li></ul>",
-            "background_color": "#fcfcfc",
-            "text_color": "#103948",
-            "card_background_color": "#ffffff",
-            "card_text_color": "#103948",
-            "bullet_color": "#103948",
-            "button_color": "#103948",
-            "button_text_color": "#fcfcfc",
-            "button_hover_color": "#18566c",
-            "button_hover_text_color": "#fcfcfc",
-            "heading_size": 36,
-            "subtitle_size": 18,
-            "product_title_size": 24,
-            "description_size": 16,
-            "button_text_size": 16,
-            "section_padding_top": 60,
-            "section_padding_bottom": 60,
-            "card_spacing": 32,
-            "card_border_radius": 8,
-            "button_border_radius": 40
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_4579977_XLqrEC"
-      ],
-      "settings": {}
     }
   },
   "order": [
@@ -287,8 +242,8 @@
     "slideshow",
     "rich_text_bdFz8t",
     "17587133154c7f19b5",
+    "1758736374c521f160",
     "175873317735c5cd69",
-    "175873593923c577b5",
-    "1758736374c521f160"
+    "175873593923c577b5"
   ]
 }
