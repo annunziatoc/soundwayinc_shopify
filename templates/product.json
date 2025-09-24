@@ -21,6 +21,7 @@
         },
         "title": {
           "type": "title",
+          "name": "Intro to ultrasound",
           "settings": {}
         },
         "price": {
