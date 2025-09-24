@@ -81,7 +81,7 @@
         "text_xp8qwg": {
           "type": "text",
           "settings": {
-            "text": "<h2><br/>We're here with bulleted key points that fast-track your learning and help you deliver precise results for your patients. </h2><h3>Get instant access to the proven study materials that have helped hundreds of sonographers pass their boards and launch successful careers.<br/><br/></h3>"
+            "text": "<h2><br/>We're here with bulleted key points that fast-track your learning and help you deliver precise results for your patients. </h2><h3>Get instant access to the proven study materials that have <strong>helped hundreds</strong> of sonographers pass their boards and launch successful careers.<br/><br/></h3>"
           }
         },
         "button_imQWJH": {
