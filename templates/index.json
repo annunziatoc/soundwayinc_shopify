@@ -124,7 +124,7 @@
             "heading": "Featured Products",
             "subtitle": "Discover our most popular products",
             "button_text": "Shop Now",
-            "product_1": "",
+            "product_1": "ultrasound",
             "product_1_description": "<ul><li>High-quality materials</li><li>Professional grade</li><li>Includes warranty</li><li>Free shipping available</li></ul>",
             "product_2": "",
             "product_2_description": "<ul><li>Premium design</li><li>Easy to use</li><li>Durable construction</li><li>Customer support included</li></ul>",
@@ -231,10 +231,6 @@
         "ai_gen_block_7c614b6_6hCrWn"
       ],
       "settings": {}
-    },
-    "175873593923c577b5": {
-      "type": "_blocks",
-      "settings": {}
     }
   },
   "order": [
@@ -243,7 +239,6 @@
     "rich_text_bdFz8t",
     "17587133154c7f19b5",
     "1758736374c521f160",
-    "175873317735c5cd69",
-    "175873593923c577b5"
+    "175873317735c5cd69"
   ]
 }
