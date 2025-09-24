@@ -125,7 +125,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Expertly curated, affordably priced to fit your every need.",
+            "heading": "Laminar Flow",
             "heading_size": "h1"
           }
         }
@@ -134,6 +134,7 @@
         "heading"
       ],
       "settings": {
+        "image": "shopify://shop_images/image_7.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -143,7 +144,7 @@
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-0c143599-0694-4e95-a8a1-158dd296c174",
         "padding_top": 36,
         "padding_bottom": 0
       }
@@ -154,7 +155,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Shop new arrivals",
+            "heading": "Renal Fibromuscular Dysplasia",
             "heading_size": "h2"
           }
         },
@@ -172,6 +173,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/image_2_-3-2-rectangle.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -181,7 +183,7 @@
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-0c143599-0694-4e95-a8a1-158dd296c174",
         "padding_top": 0,
         "padding_bottom": 56
       }
