@@ -111,63 +111,6 @@
         "padding_bottom": 52
       }
     },
-    "1758700791c976f4e5": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_60390f2_UL9Vm3": {
-          "type": "ai_gen_block_60390f2",
-          "settings": {
-            "heading": "What our customers say",
-            "subheading": "Don't just take our word for it",
-            "text_alignment": "center",
-            "columns_desktop": "2",
-            "columns_mobile": "1",
-            "grid_gap": 30,
-            "spacing_between_elements": 40,
-            "section_padding_top": 60,
-            "section_padding_bottom": 60,
-            "card_background_color": "#ffffff",
-            "card_padding": 30,
-            "card_border_radius": 8,
-            "card_border_thickness": 1,
-            "card_border_color": "#e5e5e5",
-            "card_shadow_opacity": 10,
-            "card_shadow_vertical_offset": 4,
-            "card_shadow_blur": 10,
-            "card_text_alignment": "left",
-            "heading_size": 36,
-            "subheading_size": 18,
-            "quote_size": 16,
-            "author_name_size": 16,
-            "author_title_size": 14,
-            "heading_color": "#103948",
-            "text_color": "#103948",
-            "avatar_size": 60,
-            "testimonial_1_enabled": true,
-            "testimonial_1_quote": "This product exceeded my expectations. The quality is outstanding and the customer service was exceptional.",
-            "testimonial_1_author_name": "Sarah Johnson",
-            "testimonial_1_author_title": "Verified Customer",
-            "testimonial_2_enabled": true,
-            "testimonial_2_quote": "I've been using this for months now and it's become an essential part of my daily routine. Highly recommend!",
-            "testimonial_2_author_name": "Michael Chen",
-            "testimonial_2_author_title": "Regular Customer",
-            "testimonial_3_enabled": false,
-            "testimonial_3_quote": "",
-            "testimonial_3_author_name": "",
-            "testimonial_3_author_title": "",
-            "testimonial_4_enabled": false,
-            "testimonial_4_quote": "",
-            "testimonial_4_author_name": "",
-            "testimonial_4_author_title": ""
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_60390f2_UL9Vm3"
-      ],
-      "settings": {}
-    },
     "17587133154c7f19b5": {
       "type": "_blocks",
       "blocks": {
@@ -180,7 +123,7 @@
             "product_1": "ultrasound",
             "product_2": "",
             "product_3": "",
-            "section_padding_top": 60,
+            "section_padding_top": 36,
             "section_padding_bottom": 60,
             "header_spacing": 40,
             "grid_spacing": 40,
@@ -296,7 +239,6 @@
     "rich-text",
     "slideshow",
     "rich_text_bdFz8t",
-    "1758700791c976f4e5",
     "17587133154c7f19b5",
     "175873317735c5cd69"
   ]
