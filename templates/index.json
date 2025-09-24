@@ -168,75 +168,6 @@
       ],
       "settings": {}
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Laminar Flow",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/image_7.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-0c143599-0694-4e95-a8a1-158dd296c174",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "image-with-text-1": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Renal Fibromuscular Dysplasia",
-            "heading_size": "h2"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop all",
-            "button_link": "shopify://collections/all",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/image_2_-3-2-rectangle.png",
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-0c143599-0694-4e95-a8a1-158dd296c174",
-        "padding_top": 0,
-        "padding_bottom": 56
-      }
-    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -294,8 +225,6 @@
     "slideshow",
     "rich_text_bdFz8t",
     "1758700791c976f4e5",
-    "image-with-text",
-    "image-with-text-1",
     "rich-text-1",
     "featured-collection"
   ]
