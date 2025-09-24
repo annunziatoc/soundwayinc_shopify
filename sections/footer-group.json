@@ -37,6 +37,9 @@
         "paragraph",
         "email-form"
       ],
+      "custom_css": [
+        ".content-container {margin-top: 10px;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "full_width": true,
