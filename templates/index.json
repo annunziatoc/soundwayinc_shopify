@@ -88,7 +88,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "",
+            "button_link": "shopify://collections/all",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -110,10 +110,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "17587133154c7f19b5": {
-      "type": "_blocks",
-      "settings": {}
     },
     "1758736374c521f160": {
       "type": "_blocks",
@@ -216,7 +212,6 @@
     "rich-text",
     "slideshow",
     "rich_text_bdFz8t",
-    "17587133154c7f19b5",
     "1758736374c521f160",
     "17587420086782906f"
   ]
