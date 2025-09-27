@@ -31,10 +31,11 @@
         "heading_FADtzc",
         "text_Eqp8cz"
       ],
+      "custom_css": [],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/9215575564442395851.jpg",
-        "height": "adapt",
+        "image": "shopify://shop_images/barb_blur.png",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
