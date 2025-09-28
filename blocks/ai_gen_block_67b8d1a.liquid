@@ -16,6 +16,18 @@
     padding: 0 200px;
   }
 
+    @media screen and (max-width: 1024px) {
+    .ai-about-container-{{ ai_gen_id }} {
+    padding: 0 40px;  /* Tablets */
+    }
+    }
+
+  @media screen and (max-width: 768px) {
+  .ai-about-container-{{ ai_gen_id }}{
+    padding: 0 20px
+  }
+  }
+
   .ai-about-content-{{ ai_gen_id }} {
     text-align: left;
   }
