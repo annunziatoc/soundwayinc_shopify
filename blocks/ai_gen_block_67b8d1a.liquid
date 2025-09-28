@@ -10,23 +10,23 @@
     background-color: {{ block.settings.background_color }};
   }
 
-    .ai-about-container-{{ ai_gen_id }} {
+  .ai-about-container-{{ ai_gen_id }} {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 200px;
-    }
+  }
 
-    @media screen and (max-width: 1024px) {
-    .ai-about-container-{{ ai_gen_id }} {
-    padding: 0 40px;  /* Tablets */
-    }
-    }
+  @media screen and (max-width: 1024px) {
+  .ai-about-container-{{ ai_gen_id }} {
+  padding: 0 40px;  /* Tablets */
+  }
+  }
 
-    @media screen and (max-width: 768px) {
-    .ai-about-container-{{ ai_gen_id }}{
-    padding: 0 20px
-    }
-    }
+  @media screen and (max-width: 768px) {
+  .ai-about-container-{{ ai_gen_id }} {
+  padding: 0 20px;  /* Mobile */
+  }
+  }
 
   .ai-about-content-{{ ai_gen_id }} {
     text-align: left;
