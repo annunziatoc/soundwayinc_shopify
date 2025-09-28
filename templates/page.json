@@ -55,10 +55,80 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1759073233c56c40eb": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_67b8d1a_ATrLqG": {
+          "type": "ai_gen_block_67b8d1a",
+          "settings": {
+            "main_heading": "About Barbara Annunziato",
+            "main_text": "<p>Welcome to my professional journey in diagnostic medical sonography. With decades of experience and a passion for advancing the field, I have dedicated my career to excellence in ultrasound imaging and education.</p>",
+            "professional_journey_heading": "Professional Journey",
+            "professional_journey_text": "<p>My career in diagnostic medical sonography began with a commitment to providing the highest quality patient care through advanced imaging techniques. Over the years, I have specialized in various areas of ultrasound, developing expertise that has contributed to improved diagnostic capabilities and patient outcomes.</p>",
+            "credentials_heading": "Credentials and Expertise",
+            "credentials_text": "<p>My professional qualifications reflect a deep commitment to excellence and continuous learning in the field of diagnostic medical sonography.</p>",
+            "show_expertise_grid": true,
+            "expertise_1_title": "Abdominal Sonography",
+            "expertise_1_description": "Advanced diagnostic imaging of abdominal organs and structures",
+            "expertise_2_title": "Breast Sonography",
+            "expertise_2_description": "Specialized breast imaging techniques and diagnostic protocols",
+            "expertise_3_title": "Obstetric Ultrasound",
+            "expertise_3_description": "Comprehensive prenatal care and fetal development monitoring",
+            "expertise_4_title": "Vascular Imaging",
+            "expertise_4_description": "Doppler ultrasound and vascular system assessment",
+            "expertise_5_title": "Cardiac Sonography",
+            "expertise_5_description": "Echocardiography and cardiac function evaluation",
+            "expertise_6_title": "Musculoskeletal Ultrasound",
+            "expertise_6_description": "Imaging of muscles, tendons, and joint structures",
+            "education_heading": "Education & Academic Excellence",
+            "education_text": "<p>My educational foundation in diagnostic medical sonography has been built through rigorous academic training and continuous professional development. I have pursued advanced certifications and specialized training programs to stay at the forefront of ultrasound technology and techniques. My commitment to lifelong learning has enabled me to contribute to the advancement of the field through research, publications, and educational initiatives.</p>",
+            "leadership_heading": "Professional Leadership & Legacy",
+            "show_leadership_section": true,
+            "leadership_intro_text": "<p>Throughout my career, I have been committed to advancing the profession of diagnostic medical sonography through active leadership and mentorship:</p>",
+            "leadership_item_1": "Charter member of the Society for Diagnostic Medical Sonographers",
+            "leadership_item_2": "Pioneer in breast sonography techniques and protocols",
+            "leadership_item_3": "Active involvement with professional organizations including ARRT, ARDMS, and JRC-DMS",
+            "leadership_item_4": "Educator and mentor who established ultrasound training programs",
+            "leadership_closing_text": "<p>These contributions have helped shape the standards and practices that define excellence in diagnostic medical sonography today.</p>",
+            "background_color": "#fcfcfc",
+            "main_heading_color": "#103948",
+            "section_heading_color": "#103948",
+            "body_text_color": "#103948",
+            "underline_headings": true,
+            "underline_color": "#bc5631",
+            "leadership_bg_color": "#ebeced",
+            "bullet_color": "#bc5631",
+            "credential_bg_color": "#f8f9fa",
+            "credential_border_color": "#18566c",
+            "credential_hover_border_color": "#103948",
+            "credential_title_color": "#103948",
+            "credential_text_color": "#103948",
+            "credential_border_width": 2,
+            "credential_border_radius": 8,
+            "main_heading_size": 36,
+            "section_heading_size": 24,
+            "body_text_size": 16,
+            "credential_title_size": 20,
+            "credential_text_size": 16,
+            "section_padding_top": 60,
+            "section_padding_bottom": 60,
+            "section_spacing": 32,
+            "image_border_radius": 8,
+            "leadership_border_radius": 8
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_67b8d1a_ATrLqG"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "image_with_text_fm87xG",
-    "main"
+    "main",
+    "1759073233c56c40eb"
   ]
 }
