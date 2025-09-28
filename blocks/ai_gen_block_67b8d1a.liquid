@@ -76,7 +76,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
-    margin: {{ block.settings.section_spacing }}px 0;
+    margin: -25px 0 {{ block.settings.section_spacing }}px 0;
   }
 
   .ai-about-credential-box-{{ ai_gen_id }} {
@@ -109,6 +109,16 @@
     margin: 0;
     font-family: {{ settings.type_body_font.family }}, {{ settings.type_body_font.fallback_families }};
     font-weight: {{ settings.type_body_font.weight }};
+  }
+
+  .ai-about-leadership-heading-{{ ai_gen_id }} {
+  margin-top: -30px;
+  }
+  .ai-about-academic-heading-{{ ai_gen_id }} {
+  margin-top: 36px;
+  }
+  .ai-about-cred-heading-{{ ai_gen_id }} {
+  margin-top: -5px;
   }
 
   .ai-about-leadership-box-{{ ai_gen_id }} {
@@ -289,7 +299,7 @@
       {% endif %}
 
       {% if block.settings.credentials_heading != blank %}
-        <h2 class="ai-about-section-heading-{{ ai_gen_id }}">{{ block.settings.credentials_heading }}</h2>
+        <h2 class="ai-about-section-heading-{{ ai_gen_id }} ai-about-cred-heading-{{ ai_gen_id }}">{{ block.settings.credentials_heading }}</h2>
       {% endif %}
 
       {% if block.settings.credentials_text != blank %}
@@ -338,7 +348,7 @@
       {% endif %}
 
       {% if block.settings.education_heading != blank %}
-        <h2 class="ai-about-section-heading-{{ ai_gen_id }}">{{ block.settings.education_heading }}</h2>
+        <h2 class="ai-about-section-heading-{{ ai_gen_id }} ai-about-academic-heading-{{ ai_gen_id }}">{{ block.settings.education_heading }}</h2>
       {% endif %}
 
       {% if block.settings.education_text != blank %}
@@ -346,7 +356,7 @@
       {% endif %}
 
       {% if block.settings.leadership_heading != blank %}
-        <h2 class="ai-about-section-heading-{{ ai_gen_id }}">{{ block.settings.leadership_heading }}</h2>
+        <h2 class="ai-about-section-heading-{{ ai_gen_id }} ai-about-leadership-heading-{{ ai_gen_id }}">{{ block.settings.leadership_heading }}</h2>
       {% endif %}
 
       {% if block.settings.show_leadership_section %}
