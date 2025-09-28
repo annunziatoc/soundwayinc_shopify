@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
+            "heading": "<em><strong>The Sound Way to Sonography Education</strong></em>",
             "heading_size": "h1"
           }
         }
@@ -38,18 +38,19 @@
         "slide-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/pexels-rdne-7092350-16-9-rectangle.jpg",
+            "image_overlay_opacity": 0,
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
             "show_text_box": false,
+            "box_align": "middle-center",
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
           }
         }
       },
@@ -67,131 +68,151 @@
         "accessibility_info": "Slideshow about our brand."
       }
     },
-    "rich-text-1": {
+    "rich_text_bdFz8t": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
+        "heading_dMGEwp": {
           "type": "heading",
           "settings": {
-            "heading": "Featured products",
-            "heading_size": "h2"
+            "heading": "Ready to ace your boards and advance your career?",
+            "heading_size": "h1"
+          }
+        },
+        "text_xp8qwg": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><br/>We're here with the study materials that fast-track your learning and help you deliver meaningful results for your patients. </h2><h3>Get<strong> instant access</strong> to the proven study materials that have <strong>helped hundreds</strong> of sonographers pass their boards and launch successful careers.</h3>"
+          }
+        },
+        "button_imQWJH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading_dMGEwp",
+        "text_xp8qwg",
+        "button_imQWJH"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": false,
-        "padding_top": 56,
-        "padding_bottom": 0
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 0
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
+    "1758736374c521f160": {
+      "type": "_blocks",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "ai_gen_block_4579977_XLqrEC": {
+          "type": "ai_gen_block_4579977",
           "settings": {
-            "heading": "Expertly curated, affordably priced to fit your every need.",
-            "heading_size": "h1"
-          }
+            "heading": "Featured Products",
+            "subtitle": "Discover our most popular products",
+            "button_text": "Shop Now",
+            "product_1": "ultrasound",
+            "product_1_description": "<ul><li>High-quality materials</li><li>Professional grade</li><li>Includes warranty</li><li>Free shipping available</li></ul>",
+            "product_2": "normal-liver",
+            "product_2_description": "<ul><li>Premium design</li><li>Easy to use</li><li>Durable construction</li><li>Customer support included</li></ul>",
+            "product_3": "abnormal-liver",
+            "product_3_description": "<ul><li>Advanced features</li><li>Compact size</li><li>Energy efficient</li><li>30-day money back guarantee</li></ul>",
+            "background_color": "#fcfcfc",
+            "text_color": "#103948",
+            "card_background_color": "#ffffff",
+            "card_text_color": "#103948",
+            "bullet_color": "#103948",
+            "button_color": "#103948",
+            "button_text_color": "#fcfcfc",
+            "button_hover_color": "#18566c",
+            "button_hover_text_color": "#fcfcfc",
+            "heading_size": 36,
+            "subtitle_size": 18,
+            "product_title_size": 24,
+            "description_size": 16,
+            "button_text_size": 16,
+            "section_padding_top": 32,
+            "section_padding_bottom": 60,
+            "card_spacing": 32,
+            "card_border_radius": 8,
+            "button_border_radius": 40
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "heading"
+        "ai_gen_block_4579977_XLqrEC"
       ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
+      "settings": {}
     },
-    "image-with-text-1": {
-      "type": "image-with-text",
+    "17587420086782906f": {
+      "type": "_blocks",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "ai_gen_block_8e7b28c_LXFWri": {
+          "type": "ai_gen_block_8e7b28c",
           "settings": {
-            "heading": "Shop new arrivals",
-            "heading_size": "h2"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop all",
-            "button_link": "shopify://collections/all",
-            "button_style_secondary": false
-          }
+            "title": "What our customers say",
+            "subtitle": "Don't just take our word for it",
+            "title_size": 32,
+            "subtitle_size": 16,
+            "testimonial_1_1_text": "Barb Annunziato is an extremely knowledgeable, experienced, and valuable sonographer and teacher. As Director of the Crozer School of Diagnostic Ultrasound, she has guided countless students to rewarding careers as Board Certified Sonographers.",
+            "testimonial_1_1_author": "Professional colleague",
+            "testimonial_1_2_text": "Used this book for my Abdomen boards! I found it easy to read with great ultrasound images! I passed from my first try with a score of 600. Definitely recommend this book for anyone trying to pass Abdomen boards.",
+            "testimonial_1_2_author": "Amazon customer",
+            "testimonial_2_1_text": "Barb has a gift for teaching. She explained anatomy and pathology in a way that finally made everything click for me better than anyone else ever had. She makes difficult concepts easy to understand... and I still carry that knowledge with me years after finishing school... I truly wouldn’t be the sonographer I am today without her.",
+            "testimonial_2_1_author": "Maris T.",
+            "testimonial_2_2_text": "I like that I am able to utilize this information outside of the classroom, especially when it comes time to study for a midterm or final. It provides a great refresher and the use of visual aids in my study habits.",
+            "testimonial_2_2_author": " Program student",
+            "testimonial_3_1_text": "Great reference with images associated with textbook information. Highly recommend for study or for review.",
+            "testimonial_3_1_author": "Rebekah H.",
+            "testimonial_3_2_text": "This book is really good, covers everything I need to know about abdomen “normal and abnormal,” and lots of ultrasound images as well. I used to study for my boards and I pass. I highly recommend.",
+            "testimonial_3_2_author": "Hanae A.",
+            "testimonial_4_1_text": "Great book. Helped me pass my ARDMS Abdomen.",
+            "testimonial_4_1_author": "Oklgotit",
+            "testimonial_4_2_text": "It was very easy to understand and it had review questions and images that were very clear and helpful.",
+            "testimonial_4_2_author": "Graduate",
+            "testimonial_5_1_text": "",
+            "testimonial_5_1_author": "",
+            "testimonial_5_2_text": "",
+            "testimonial_5_2_author": "",
+            "background_color": "#fcfcfc",
+            "text_color": "#103948",
+            "card_background_color": "#ffffff",
+            "card_border_color": "#ebeced",
+            "testimonial_text_color": "#103948",
+            "author_text_color": "#103948",
+            "nav_button_color": "#103948",
+            "nav_button_text_color": "#fcfcfc",
+            "nav_button_hover_color": "#18566c",
+            "indicator_color": "#103948",
+            "testimonial_text_size": 16,
+            "author_text_size": 14,
+            "border_radius": 0,
+            "card_border_radius": 8
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "ai_gen_block_8e7b28c_LXFWri"
       ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 56
-      }
+      "settings": {}
     }
   },
   "order": [
     "rich-text",
     "slideshow",
-    "rich-text-1",
-    "featured-collection",
-    "image-with-text",
-    "image-with-text-1"
+    "rich_text_bdFz8t",
+    "1758736374c521f160",
+    "17587420086782906f"
   ]
 }
