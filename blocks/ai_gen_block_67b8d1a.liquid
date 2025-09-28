@@ -6,8 +6,8 @@
 
 {% style %}
   .ai-about-section-{{ ai_gen_id }} {
-    padding: {{ block.settings.section_padding_top }}px 0 {{ block.settings.section_padding_bottom }}px;
-    background-color: {{ block.settings.background_color }};
+  padding: {{ block.settings.section_padding_top }}px 0 20px;
+  background-color: {{ block.settings.background_color }};
   }
 
   .ai-about-container-{{ ai_gen_id }} {
@@ -152,7 +152,7 @@
     font-size: {{ block.settings.body_text_size }}px;
     color: {{ block.settings.body_text_color }};
     line-height: 1.6;
-    margin-bottom: {{ block.settings.section_spacing }}px;
+    margin-bottom: -15px;
     font-family: {{ settings.type_body_font.family }}, {{ settings.type_body_font.fallback_families }};
     font-weight: {{ settings.type_body_font.weight }};
   }
