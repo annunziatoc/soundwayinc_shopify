@@ -9,46 +9,6 @@
  */
 {
   "sections": {
-    "image_with_text_fm87xG": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_FADtzc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "text_Eqp8cz": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FADtzc",
-        "text_Eqp8cz"
-      ],
-      "custom_css": [],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/barb_blur.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -62,25 +22,26 @@
         "ai_gen_block_67b8d1a_ATrLqG": {
           "type": "ai_gen_block_67b8d1a",
           "settings": {
-            "main_heading": "About Barbara Annunziato",
-            "main_text": "<p>Welcome to my professional journey in diagnostic medical sonography. With decades of experience and a passion for advancing the field, I have dedicated my career to excellence in ultrasound imaging and education.</p>",
+            "main_heading": "About Sound Way Inc",
+            "main_text": "<h2>Transforming Sonography Education Since 1999.</h2>",
+            "profile_image": "shopify://shop_images/PXL_20250927_193343285_3_d96f6fb2-92b5-4338-8bc0-e7e81eb38288.jpg",
             "professional_journey_heading": "Professional Journey",
-            "professional_journey_text": "<p>My career in diagnostic medical sonography began with a commitment to providing the highest quality patient care through advanced imaging techniques. Over the years, I have specialized in various areas of ultrasound, developing expertise that has contributed to improved diagnostic capabilities and patient outcomes.</p>",
-            "credentials_heading": "Credentials and Expertise",
-            "credentials_text": "<p>My professional qualifications reflect a deep commitment to excellence and continuous learning in the field of diagnostic medical sonography.</p>",
+            "professional_journey_text": "<p>Barbara's career began as a radiologic technologist before discovering her passion for sonography. After graduating from Thomas Jefferson University Hospital, she has been advancing the field of diagnostic medical sonography since 1983, bringing over four decades of expertise and innovation to patient care.</p><p>Throughout her career, Barbara has worked in various settings and held multiple leadership positions, including serving as ultrasound department supervisor. In 1999, she took on the role of educator by founding an ultrasound school at Crozer-Chester Medical Center in Upland, PA.</p>",
+            "credentials_heading": "Credentials & Expertise",
+            "credentials_text": "<p>Barbara maintains the highest professional standards, holding both RDMS and RVT credentials from the American Registry for Diagnostic Medical Sonography (ARDMS). Her multi-credentialing encompasses an impressive range of specialties:<br/><br/></p>",
             "show_expertise_grid": true,
             "expertise_1_title": "Abdominal Sonography",
             "expertise_1_description": "Advanced diagnostic imaging of abdominal organs and structures",
-            "expertise_2_title": "Breast Sonography",
-            "expertise_2_description": "Specialized breast imaging techniques and diagnostic protocols",
-            "expertise_3_title": "Obstetric Ultrasound",
-            "expertise_3_description": "Comprehensive prenatal care and fetal development monitoring",
-            "expertise_4_title": "Vascular Imaging",
-            "expertise_4_description": "Doppler ultrasound and vascular system assessment",
-            "expertise_5_title": "Cardiac Sonography",
-            "expertise_5_description": "Echocardiography and cardiac function evaluation",
-            "expertise_6_title": "Musculoskeletal Ultrasound",
-            "expertise_6_description": "Imaging of muscles, tendons, and joint structures",
+            "expertise_2_title": "OB/GYN Imaging",
+            "expertise_2_description": "Specialized obstetric and gynecological ultrasound procedures",
+            "expertise_3_title": "Neurosonography",
+            "expertise_3_description": "Expert neurological ultrasound applications",
+            "expertise_4_title": "Breast Sonography",
+            "expertise_4_description": "Pioneer in breast ultrasound techniques and protocols",
+            "expertise_5_title": "Vascular Imaging",
+            "expertise_5_description": "Comprehensive vascular ultrasound and Doppler studies",
+            "expertise_6_title": "Pediatric Specialization",
+            "expertise_6_description": "Extensive pediatric scanning including neonatal heads, neonatal hips (trained at A.I. DuPont), and pyloric stenosis",
             "education_heading": "Education & Academic Excellence",
             "education_text": "<p>My educational foundation in diagnostic medical sonography has been built through rigorous academic training and continuous professional development. I have pursued advanced certifications and specialized training programs to stay at the forefront of ultrasound technology and techniques. My commitment to lifelong learning has enabled me to contribute to the advancement of the field through research, publications, and educational initiatives.</p>",
             "leadership_heading": "Professional Leadership & Legacy",
@@ -127,7 +88,6 @@
     }
   },
   "order": [
-    "image_with_text_fm87xG",
     "main",
     "1759073233c56c40eb"
   ]
