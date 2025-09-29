@@ -11,92 +11,11 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "custom_css": [
-        "/* Hide/minimize the default page elements */.page-header,.page-title,.main-page-title,.page-width .page-title,.template-page .page-header {display: none; margin: 0; padding: 0;}",
-        " /* Remove any default page spacing */.template-page .main-page-title,.template-page .rte {margin: 0; padding: 0;}",
-        " /* Target the main content area */.page-width,.main-page-title {margin-top: 0; padding-top: 0;}"
-      ],
-      "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "1759073233c56c40eb": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_67b8d1a_ATrLqG": {
-          "type": "ai_gen_block_67b8d1a",
-          "settings": {
-            "main_heading": "About Sound Way Inc",
-            "main_text": "<h2>Transforming Sonography Education Since 1999.</h2>",
-            "profile_image": "shopify://shop_images/barb_portrait.jpg",
-            "professional_journey_heading": "Professional Journey",
-            "professional_journey_text": "<p>Barbara's career began as a radiologic technologist before discovering her passion for sonography. After graduating from Thomas Jefferson University Hospital, she has been advancing the field of diagnostic medical sonography since 1983, bringing over four decades of expertise and innovation to patient care.</p><p>Throughout her career, Barbara has worked in various settings and held multiple leadership positions, including serving as ultrasound department supervisor. In 1999, she took on the role of educator by founding an ultrasound school at Crozer-Chester Medical Center in Upland, PA.</p>",
-            "credentials_heading": "Credentials & Expertise",
-            "credentials_text": "<p>Barbara maintains the highest professional standards, holding both RDMS and RVT credentials from the American Registry for Diagnostic Medical Sonography (ARDMS). Her multi-credentialing encompasses an impressive range of specialties:<br/><br/></p>",
-            "show_expertise_grid": true,
-            "expertise_1_title": "Abdominal Sonography",
-            "expertise_1_description": "Advanced diagnostic imaging of abdominal organs and structures",
-            "expertise_2_title": "OB/GYN Imaging",
-            "expertise_2_description": "Specialized obstetric and gynecological ultrasound procedures",
-            "expertise_3_title": "Neurosonography",
-            "expertise_3_description": "Expert neurological ultrasound applications",
-            "expertise_4_title": "Breast Sonography",
-            "expertise_4_description": "Pioneer in breast ultrasound techniques and protocols",
-            "expertise_5_title": "Vascular Imaging",
-            "expertise_5_description": "Comprehensive vascular ultrasound and Doppler studies",
-            "expertise_6_title": "Pediatric Specialization",
-            "expertise_6_description": "Extensive pediatric scanning including neonatal heads, neonatal hips (trained at A.I. DuPont), and pyloric stenosis",
-            "education_heading": "Education & Academic Excellence",
-            "education_text": "<p>Barbara's commitment to lifelong learning exemplifies her dedication to excellence in both practice and education. She received the distinction of Summa cum laude for both her undergraduate and graduate degrees. She earned a Bachelor of Science degree from Widener University with a minor in Instructional Methods for Adult Learners, while teaching and running the sonography program at Crozer-Chester Medical Center. She then attended Regis University to receive her Master’s of Education in Adult Learning, Training, and Development.<br/><br/></p>",
-            "leadership_heading": "Professional Leadership & Legacy",
-            "show_leadership_section": true,
-            "leadership_intro_text": "<p>Barbara stands as a pioneering figure in diagnostic medical sonography with several notable achievements:<br/><br/></p>",
-            "leadership_item_1": "Charter member of the Society for Diagnostic Medical Sonographers",
-            "leadership_item_2": "Pioneer in breast sonography techniques and protocols",
-            "leadership_item_3": "Active involvement with professional organizations including the ARRT, ARDMS, and SDMS.",
-            "leadership_item_4": "Served as an item writer for both the ARRT and ARDMS sonography registry exams.",
-            "leadership_item_5": "Volunteered as a site visitor for JRC-DMS ultrasound school program accreditation.",
-            "leadership_item_6": "Provides consulting services for diagnostic medical sonography programs in regards to content, policies, concerns and accreditation.",
-            "leadership_closing_text": "<p>Barbara resides in suburban Philadelphia, continuing her dedication to advancing the field of diagnostic medical sonography through best practices and education.<br/><br/></p>",
-            "background_color": "#fcfcfc",
-            "main_heading_color": "#103948",
-            "section_heading_color": "#103948",
-            "body_text_color": "#103948",
-            "underline_headings": true,
-            "underline_color": "#a052ef",
-            "leadership_bg_color": "#ebeced",
-            "bullet_color": "#a052ef",
-            "credential_bg_color": "#f8f9fa",
-            "credential_border_color": "#18566c",
-            "credential_hover_border_color": "#103948",
-            "credential_title_color": "#103948",
-            "credential_text_color": "#103948",
-            "credential_border_width": 2,
-            "credential_border_radius": 8,
-            "main_heading_size": 42,
-            "section_heading_size": 26,
-            "body_text_size": 16,
-            "credential_title_size": 20,
-            "credential_text_size": 16,
-            "section_padding_top": 60,
-            "section_padding_bottom": 60,
-            "section_spacing": 32,
-            "image_border_radius": 4,
-            "leadership_border_radius": 4
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_67b8d1a_ATrLqG"
-      ],
-      "custom_css": [],
+      "disabled": true,
       "settings": {}
     }
   },
   "order": [
-    "main",
-    "1759073233c56c40eb"
+    "main"
   ]
 }
