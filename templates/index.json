@@ -38,7 +38,7 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/pexels-rdne-7092350-16-9-rectangle.jpg",
+            "image": "shopify://shop_images/hero_image.jpg",
             "image_overlay_opacity": 0,
             "heading": "",
             "heading_size": "medium",
