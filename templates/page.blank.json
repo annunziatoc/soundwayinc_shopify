@@ -9,6 +9,72 @@
  */
 {
   "sections": {
+    "1759185676befdca31": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_456ba9b_DEACeA": {
+          "type": "ai_gen_block_456ba9b",
+          "settings": {
+            "title": "Additional Resources",
+            "description": "Find helpful resources and important links below.",
+            "text_alignment": "center",
+            "link_1_title": "SDMS Industry standards for prevention of MSD",
+            "link_1_description": "Industry standards established for the prevention of work related musculoskeletal disorders in sonography.",
+            "link_1_url": "https://www.sdms.org/docs/default-source/Resources/industry-standards-for-the-prevention-of-work-related-musculoskeletal-disorders-in-sonography.pdf",
+            "link_2_title": "SDMS Code of Ethics",
+            "link_2_description": "Find answers to Guidelines to promote exceptional patient care by encouraging responsibility and accountability of  sonographers.commonly asked questions.",
+            "link_2_url": "https://www.sdms.org/about/who-we-are/code-of-ethics",
+            "link_3_title": "Practice and accreditation standards and guidelines",
+            "link_3_description": "Standards and guidelines for infection control, lab accreditation resources, and educational standards.",
+            "link_3_url": "https://www.sdms.org/resources/other-guidelines-standards",
+            "link_4_title": "SDMS Scope of Practice and Clinical Standards for the Diagnostic Medical Sonographer",
+            "link_4_description": "This references the current community standard of care for sonographers, regarding scope of practice and clinical standards.",
+            "link_4_url": "https://www.sdms.org/docs/default-source/Resources/scope-of-practice-and-clinical-standards.pdf?sfvrsn=14",
+            "link_5_title": "Best practices for transducer cleaning",
+            "link_5_description": "Transducer safety and infection prevention.",
+            "link_5_url": "https://www.sdms.org/docs/default-source/Resources/8756479320933256.pdf",
+            "link_6_title": "",
+            "link_6_description": "",
+            "link_6_url": "",
+            "container_width": 1200,
+            "min_column_width": 300,
+            "grid_gap": 30,
+            "section_padding_top": 60,
+            "section_padding_bottom": 60,
+            "background_color": "#fcfcfc",
+            "title_color": "#103948",
+            "description_color": "#103948",
+            "title_size": 36,
+            "description_size": 16,
+            "title_bottom_spacing": 16,
+            "header_spacing": 40,
+            "item_background_color": "#ffffff",
+            "item_hover_background_color": "#f8f8f8",
+            "item_border_color": "#e0e0e0",
+            "item_hover_border_color": "#103948",
+            "item_border_width": 1,
+            "item_border_radius": 8,
+            "item_padding": 25,
+            "item_title_color": "#103948",
+            "item_title_hover_color": "#103948",
+            "item_description_color": "#666666",
+            "item_description_hover_color": "#103948",
+            "item_title_size": 18,
+            "item_description_size": 14,
+            "item_title_spacing": 8,
+            "hover_lift": 3,
+            "hover_shadow_y": 8,
+            "hover_shadow_blur": 16,
+            "hover_shadow_opacity": 15
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_456ba9b_DEACeA"
+      ],
+      "settings": {}
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -62,6 +128,7 @@
     }
   },
   "order": [
+    "1759185676befdca31",
     "main",
     "rich_text_eejMVk"
   ]
