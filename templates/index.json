@@ -9,6 +9,36 @@
  */
 {
   "sections": {
+    "1760818580ace0e27b": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_618b19a_EmhJH9": {
+          "type": "ai_gen_block_618b19a",
+          "settings": {
+            "heading": "Featured Products",
+            "heading_size": 36,
+            "heading_color": "#103948",
+            "product_1": "introduction-to-ultrasound",
+            "product_2": "",
+            "product_3": "",
+            "button_text": "Shop Now",
+            "button_font_size": 16,
+            "button_color": "#103948",
+            "button_text_color": "#fcfcfc",
+            "button_hover_color": "#18566c",
+            "button_border_radius": 40,
+            "background_color": "#fcfcfc",
+            "grid_gap": 30,
+            "image_border_radius": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_618b19a_EmhJH9"
+      ],
+      "settings": {}
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -209,6 +239,7 @@
     }
   },
   "order": [
+    "1760818580ace0e27b",
     "rich-text",
     "slideshow",
     "rich_text_bdFz8t",
