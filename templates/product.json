@@ -24,6 +24,10 @@
           "name": "Intro to ultrasound",
           "settings": {}
         },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -51,21 +55,17 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
         }
       },
       "block_order": [
         "vendor",
         "title",
+        "description",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "share",
-        "description"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
