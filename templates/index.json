@@ -9,6 +9,35 @@
  */
 {
   "sections": {
+    "176081970765d14f85": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_9b81b6b_NqUXyn": {
+          "type": "ai_gen_block_9b81b6b",
+          "settings": {
+            "heading": "Featured products",
+            "heading_size": 36,
+            "heading_color": "#103948",
+            "product_1": "",
+            "product_2": "",
+            "product_3": "",
+            "button_text": "Shop now",
+            "button_color": "#103948",
+            "button_hover_color": "#18566c",
+            "button_text_color": "#fcfcfc",
+            "button_border_radius": 40,
+            "background_color": "#fcfcfc",
+            "grid_gap": 30,
+            "image_border_radius": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_9b81b6b_NqUXyn"
+      ],
+      "settings": {}
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -196,6 +225,7 @@
     }
   },
   "order": [
+    "176081970765d14f85",
     "rich-text",
     "slideshow",
     "rich_text_bdFz8t",
