@@ -9,36 +9,6 @@
  */
 {
   "sections": {
-    "1760818580ace0e27b": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_618b19a_EmhJH9": {
-          "type": "ai_gen_block_618b19a",
-          "settings": {
-            "heading": "Featured Products",
-            "heading_size": 36,
-            "heading_color": "#103948",
-            "product_1": "introduction-to-ultrasound",
-            "product_2": "liver-normal",
-            "product_3": "liver-abnormal",
-            "button_text": "Shop Now",
-            "button_font_size": 16,
-            "button_color": "#103948",
-            "button_text_color": "#fcfcfc",
-            "button_hover_color": "#18566c",
-            "button_border_radius": 40,
-            "background_color": "#fcfcfc",
-            "grid_gap": 30,
-            "image_border_radius": 0
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_618b19a_EmhJH9"
-      ],
-      "settings": {}
-    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -141,46 +111,33 @@
         "padding_bottom": 52
       }
     },
-    "1758736374c521f160": {
+    "1760818580ace0e27b": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_4579977_XLqrEC": {
-          "type": "ai_gen_block_4579977",
+        "ai_gen_block_618b19a_EmhJH9": {
+          "type": "ai_gen_block_618b19a",
           "settings": {
             "heading": "Featured Products",
-            "subtitle": "Discover our most popular products",
+            "heading_size": 36,
+            "heading_color": "#103948",
+            "product_1": "introduction-to-ultrasound",
+            "product_2": "liver-normal",
+            "product_3": "liver-abnormal",
             "button_text": "Shop Now",
-            "product_1": "ultrasound",
-            "product_1_description": "<ul><li>High-quality materials</li><li>Professional grade</li><li>Includes warranty</li><li>Free shipping available</li></ul>",
-            "product_2": "normal-liver",
-            "product_2_description": "<ul><li>Premium design</li><li>Easy to use</li><li>Durable construction</li><li>Customer support included</li></ul>",
-            "product_3": "abnormal-liver",
-            "product_3_description": "<ul><li>Advanced features</li><li>Compact size</li><li>Energy efficient</li><li>30-day money back guarantee</li></ul>",
-            "background_color": "#fcfcfc",
-            "text_color": "#103948",
-            "card_background_color": "#ffffff",
-            "card_text_color": "#103948",
-            "bullet_color": "#103948",
+            "button_font_size": 16,
             "button_color": "#103948",
             "button_text_color": "#fcfcfc",
             "button_hover_color": "#18566c",
-            "button_hover_text_color": "#fcfcfc",
-            "heading_size": 36,
-            "subtitle_size": 18,
-            "product_title_size": 24,
-            "description_size": 16,
-            "button_text_size": 16,
-            "section_padding_top": 32,
-            "section_padding_bottom": 60,
-            "card_spacing": 32,
-            "card_border_radius": 8,
-            "button_border_radius": 40
+            "button_border_radius": 40,
+            "background_color": "#fcfcfc",
+            "grid_gap": 30,
+            "image_border_radius": 0
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_4579977_XLqrEC"
+        "ai_gen_block_618b19a_EmhJH9"
       ],
       "settings": {}
     },
@@ -239,11 +196,10 @@
     }
   },
   "order": [
-    "1760818580ace0e27b",
     "rich-text",
     "slideshow",
     "rich_text_bdFz8t",
-    "1758736374c521f160",
+    "1760818580ace0e27b",
     "17587420086782906f"
   ]
 }
