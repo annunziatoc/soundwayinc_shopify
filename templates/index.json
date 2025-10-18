@@ -9,35 +9,6 @@
  */
 {
   "sections": {
-    "176081970765d14f85": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_9b81b6b_NqUXyn": {
-          "type": "ai_gen_block_9b81b6b",
-          "settings": {
-            "heading": "Featured products",
-            "heading_size": 36,
-            "heading_color": "#103948",
-            "product_1": "introduction-to-ultrasound",
-            "product_2": "biliary-system-normal",
-            "product_3": "biliary-system-abnormal",
-            "button_text": "Shop now",
-            "button_color": "#103948",
-            "button_hover_color": "#18566c",
-            "button_text_color": "#fcfcfc",
-            "button_border_radius": 40,
-            "background_color": "#fcfcfc",
-            "grid_gap": 30,
-            "image_border_radius": 0
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_9b81b6b_NqUXyn"
-      ],
-      "settings": {}
-    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -140,23 +111,22 @@
         "padding_bottom": 52
       }
     },
-    "1760818580ace0e27b": {
+    "176081970765d14f85": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_618b19a_EmhJH9": {
-          "type": "ai_gen_block_618b19a",
+        "ai_gen_block_9b81b6b_NqUXyn": {
+          "type": "ai_gen_block_9b81b6b",
           "settings": {
-            "heading": "Featured Products",
+            "heading": "Featured products",
             "heading_size": 36,
             "heading_color": "#103948",
             "product_1": "introduction-to-ultrasound",
-            "product_2": "liver-normal",
-            "product_3": "liver-abnormal",
-            "button_text": "Shop Now",
-            "button_font_size": 16,
+            "product_2": "biliary-system-normal",
+            "product_3": "biliary-system-abnormal",
+            "button_text": "Shop now",
             "button_color": "#103948",
-            "button_text_color": "#fcfcfc",
             "button_hover_color": "#18566c",
+            "button_text_color": "#fcfcfc",
             "button_border_radius": 40,
             "background_color": "#fcfcfc",
             "grid_gap": 30,
@@ -166,7 +136,7 @@
         }
       },
       "block_order": [
-        "ai_gen_block_618b19a_EmhJH9"
+        "ai_gen_block_9b81b6b_NqUXyn"
       ],
       "settings": {}
     },
@@ -225,11 +195,10 @@
     }
   },
   "order": [
-    "176081970765d14f85",
     "rich-text",
     "slideshow",
     "rich_text_bdFz8t",
-    "1760818580ace0e27b",
+    "176081970765d14f85",
     "17587420086782906f"
   ]
 }
