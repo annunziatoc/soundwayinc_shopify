@@ -22,19 +22,19 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Share on Facebook",
-        "share_on_twitter": "Share on X",
-        "share_on_pinterest": "Pin on Pinterest"
+        "share_on_twitter": " ",
+        "share_on_pinterest": " "
       },
       "links": {
-        "twitter": "X (Twitter)",
+        "twitter": " ",
         "facebook": "Facebook",
-        "pinterest": "Pinterest",
+        "pinterest": "  ",
         "instagram": "Instagram",
-        "tumblr": "Tumblr",
-        "snapchat": "Snapchat",
+        "tumblr": " ",
+        "snapchat": " ",
         "youtube": "YouTube",
-        "vimeo": "Vimeo",
-        "tiktok": "TikTok"
+        "vimeo": " ",
+        "tiktok": " "
       }
     },
     "continue_shopping": "Continue shopping",
