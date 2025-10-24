@@ -1,6 +1,6 @@
 {% doc %}
   @prompt
-    a section wehere i can put links and a description
+    a section where I can put links and a description
 {% enddoc %}
 {% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
 
@@ -94,11 +94,11 @@
     .ai-links-section__grid-{{ ai_gen_id }} {
       grid-template-columns: 1fr;
     }
-    
+
     .ai-links-section__title-{{ ai_gen_id }} {
       font-size: {{ block.settings.title_size | times: 0.8 }}px;
     }
-    
+
     .ai-links-section__item-{{ ai_gen_id }} {
       padding: {{ block.settings.item_padding | times: 0.8 }}px;
     }
@@ -124,12 +124,12 @@
         assign link_key = 'link_' | append: i | append: '_url'
         assign title_key = 'link_' | append: i | append: '_title'
         assign description_key = 'link_' | append: i | append: '_description'
-        
+
         assign link_url = block.settings[link_key]
         assign link_title = block.settings[title_key]
         assign link_description = block.settings[description_key]
       %}
-      
+
       {% if link_title != blank %}
         {% assign has_links = true %}
         {% break %}
@@ -143,28 +143,29 @@
             assign link_key = 'link_' | append: i | append: '_url'
             assign title_key = 'link_' | append: i | append: '_title'
             assign description_key = 'link_' | append: i | append: '_description'
-            
+
             assign link_url = block.settings[link_key]
             assign link_title = block.settings[title_key]
             assign link_description = block.settings[description_key]
           %}
-          
-          {% if link_title != blank %}
-            {% if link_url != blank %}
-              <a href="{{ link_url }}" class="ai-links-section__item-{{ ai_gen_id }}">
-            {% else %}
-              <div class="ai-links-section__item-{{ ai_gen_id }}">
+
+            {% if link_title != blank %}
+                {% if link_url != blank %}
+                    <a href="{{ link_url }}" class="ai-links-section__item-{{ ai_gen_id }}" target="_blank" rel="noopener noreferrer">
+                        <h3 class="ai-links-section__item-title-{{ ai_gen_id }}">{{ link_title }}</h3>
+                        {% if link_description != blank %}
+                            <div class="ai-links-section__item-description-{{ ai_gen_id }}">{{ link_description }}</div>
+                        {% endif %}
+                    </a>
+                {% else %}
+                    <div class="ai-links-section__item-{{ ai_gen_id }}">
+                        <h3 class="ai-links-section__item-title-{{ ai_gen_id }}">{{ link_title }}</h3>
+                        {% if link_description != blank %}
+                            <div class="ai-links-section__item-description-{{ ai_gen_id }}">{{ link_description }}</div>
+                        {% endif %}
+                    </div>
+                {% endif %}
             {% endif %}
-              <h3 class="ai-links-section__item-title-{{ ai_gen_id }}">{{ link_title }}</h3>
-              {% if link_description != blank %}
-                <div class="ai-links-section__item-description-{{ ai_gen_id }}">{{ link_description }}</div>
-              {% endif %}
-            {% if link_url != blank %}
-              </a>
-            {% else %}
-              </div>
-            {% endif %}
-          {% endif %}
         {% endfor %}
       </div>
     {% else %}
@@ -174,7 +175,6 @@
     {% endif %}
   </div>
 </div>
-
 {% schema %}
 {
   "name": "Links section",
