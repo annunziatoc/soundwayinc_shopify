@@ -10,6 +10,7 @@
 {
   "current": {
     "logo_width": 120,
+    "favicon": "{{ shop.brand.logo }}",
     "type_header_font": "cormorant_n5",
     "heading_scale": 120,
     "type_body_font": "cormorant_n5",
